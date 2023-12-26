@@ -1,17 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd352b1c-2163-46ab-a283-37f68198ba95" name="Changes" comment="" />
+    <list default="true" id="bd352b1c-2163-46ab-a283-37f68198ba95" name="Changes" comment="save changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Embeddable_Annotation/App_Embed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Embeddable_Annotation/Certificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Embeddable_Annotation/StudentEm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToMany/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToMany/Main_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToMany/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToOne_Mapping/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToOne_Mapping/Main_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToOne_Mapping/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App_InsertData_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App_InsertData_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="XML Properties File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ZlIA8RKmjQFYt2AQDOGrYmnTeL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +50,100 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/vaibhav Turale/IdeaProjects/Hibernate_Core/src/main/java/org/example/OneToMany"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vaibhav Turale\IdeaProjects\Hibernate_Core\src\main\java\org\example\OneToMany" />
+      <recent name="C:\Users\vaibhav Turale\IdeaProjects\Hibernate_Core\src\main\java\org\example\OneToOne_Mapping" />
+      <recent name="C:\Users\vaibhav Turale\IdeaProjects\Hibernate_Core\src\main\java\org\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vaibhav Turale\IdeaProjects\Hibernate_Core\src\main\java\org\example\InsertData" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.GetData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.OneToMany.Main_One">
+    <configuration name="App_Embed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Embeddable_Annotation.App_Embed" />
+      <module name="Hibernate_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Embeddable_Annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App_InsertData_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.App_InsertData_Main" />
+      <module name="Hibernate_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetData_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.GetData.GetData_App" />
+      <module name="Hibernate_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OneToOne_Mapping.Main_One" />
+      <module name="Hibernate_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.OneToOne_Mapping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.OneToMany.Main_One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OneToMany.Main_One" />
+      <module name="Hibernate_Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.OneToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.OneToMany.Main_One" />
+        <item itemvalue="Application.Main_One" />
+        <item itemvalue="Application.App_Embed" />
+        <item itemvalue="Application.GetData_App" />
+        <item itemvalue="Application.App_InsertData_Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +153,36 @@
       <option name="presentableId" value="Default" />
       <updated>1702990107850</updated>
     </task>
+    <task id="LOCAL-00001" summary="save changes">
+      <created>1703321401465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703321401465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="save changes">
+      <created>1703321473827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703321473827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="save changes" />
   </component>
 </project>

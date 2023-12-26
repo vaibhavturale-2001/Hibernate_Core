@@ -1,6 +1,8 @@
 package org.example;
 
 
+import org.example.Address;
+import org.example.Student;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
@@ -24,14 +26,14 @@ public class App_InsertData_Main {
 //        Creating student
         Student s1=new Student();
         s1.setId(1);
-        s1.setName("Vaibhav");;
+        s1.setName("Vaibhav");
         s1.setCity("Nagpur");
         System.out.println(s1);
 
 //       Session session= factory.openSession();   //session use for .save() method and all for CRUD
 //       Transaction tx= session.beginTransaction();         //transaction start to save the data
 //        session.save(s1);                //It save the object or data
-//        tx.commit();
+//        tx.commit();                    //It is used for doing pysically changes in database
 //        session.close();              //for close thr connection
 
 //   ----------------------------------------------------------------------------------------------
