@@ -17,6 +17,6 @@ public class Question {
     @Column(name = "Question_Id")
     private int questionId;
     private String question;
-//    @OneToMany(mappedBy = "question")
-    private List<Answer> answerList;            //one que and list of answe
+    @OneToMany(mappedBy = "question")
+    private List<Answer> answerList;            //one que and list of answer
 }

@@ -19,8 +19,10 @@
 <!--        <mapping class="org.example.Embeddable_Annotation.StudentEm"/>-->
 <!--        <mapping class="org.example.OneToOne_Mapping.Question"/>-->
 <!--        <mapping class="org.example.OneToOne_Mapping.Answer"/>-->
-        <mapping class="org.example.OneToMany.Question"/>
-        <mapping class="org.example.OneToMany.Answer"/>
+<!--        <mapping class="org.example.OneToMany.Question"/>-->
+<!--        <mapping class="org.example.OneToMany.Answer"/>-->
+        <mapping class="org.example.ManyToMany.Employee"/>
+        <mapping class="org.example.ManyToMany.Project"/>
 
 
     </session-factory>
