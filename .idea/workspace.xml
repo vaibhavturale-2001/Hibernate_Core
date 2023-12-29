@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd352b1c-2163-46ab-a283-37f68198ba95" name="Changes" comment="save changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ManyToMany/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ManyToMany/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ManyToMany/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Life_State_Practical/LifeStateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Life_State_Practical/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OneToMany/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OneToMany/Question.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <recent name="org.example.GetData" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp">
+  <component name="RunManager" selected="Application.LifeStateMain">
     <configuration name="App_Embed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Embeddable_Annotation.App_Embed" />
       <module name="Hibernate_Core" />
@@ -74,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetData_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.GetData.GetData_App" />
+    <configuration name="LifeStateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Life_State_Practical.LifeStateMain" />
       <module name="Hibernate_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.Life_State_Practical.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LifeStateMain" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.org.example.OneToMany.Main_One" />
         <item itemvalue="Application.Main_One" />
         <item itemvalue="Application.App_Embed" />
-        <item itemvalue="Application.GetData_App" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703609778458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="save changes">
+      <created>1703781503342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703781503343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

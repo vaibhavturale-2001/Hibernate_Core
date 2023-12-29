@@ -21,8 +21,9 @@
 <!--        <mapping class="org.example.OneToOne_Mapping.Answer"/>-->
 <!--        <mapping class="org.example.OneToMany.Question"/>-->
 <!--        <mapping class="org.example.OneToMany.Answer"/>-->
-        <mapping class="org.example.ManyToMany.Employee"/>
-        <mapping class="org.example.ManyToMany.Project"/>
+<!--        <mapping class="org.example.ManyToMany.Employee"/>-->
+<!--        <mapping class="org.example.ManyToMany.Project"/>-->
+        <mapping class="org.example.Life_State_Practical.Student"/>
 
 
     </session-factory>
