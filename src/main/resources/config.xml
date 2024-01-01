@@ -23,7 +23,8 @@
 <!--        <mapping class="org.example.OneToMany.Answer"/>-->
 <!--        <mapping class="org.example.ManyToMany.Employee"/>-->
 <!--        <mapping class="org.example.ManyToMany.Project"/>-->
-        <mapping class="org.example.Life_State_Practical.Student"/>
+<!--        <mapping class="org.example.Life_State_Practical.Student"/>-->
+        <mapping class="org.example.HQL.MyEmployee"/>
 
 
     </session-factory>

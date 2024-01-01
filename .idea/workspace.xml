@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd352b1c-2163-46ab-a283-37f68198ba95" name="Changes" comment="save changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Life_State_Practical/LifeStateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Life_State_Practical/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HQL/HQLExampleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HQL/MyEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
@@ -58,13 +58,13 @@
       <recent name="org.example.GetData" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LifeStateMain">
-    <configuration name="App_Embed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Embeddable_Annotation.App_Embed" />
+  <component name="RunManager" selected="Application.HQLExampleApp">
+    <configuration name="HQLExampleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HQL.HQLExampleApp" />
       <module name="Hibernate_Core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Embeddable_Annotation.*" />
+          <option name="PATTERN" value="org.example.HQL.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HQLExampleApp" />
         <item itemvalue="Application.LifeStateMain" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.org.example.OneToMany.Main_One" />
         <item itemvalue="Application.Main_One" />
-        <item itemvalue="Application.App_Embed" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703781503343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="save changes">
+      <created>1703833669549</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703833669561</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
