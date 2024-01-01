@@ -1,4 +1,4 @@
-package org.example.HQL;
+package org.example.HQL.HQL_Updatedata;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

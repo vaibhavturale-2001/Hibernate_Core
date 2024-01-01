@@ -1,4 +1,4 @@
-package org.example.HQL;
+package org.example.HQL.HQL_Getdata;
 
 
 import jakarta.persistence.Query;

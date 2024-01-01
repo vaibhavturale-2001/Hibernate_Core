@@ -19,12 +19,16 @@
 <!--        <mapping class="org.example.Embeddable_Annotation.StudentEm"/>-->
 <!--        <mapping class="org.example.OneToOne_Mapping.Question"/>-->
 <!--        <mapping class="org.example.OneToOne_Mapping.Answer"/>-->
-<!--        <mapping class="org.example.OneToMany.Question"/>-->
-<!--        <mapping class="org.example.OneToMany.Answer"/>-->
+        <mapping class="org.example.OneToMany.Question"/>
+        <mapping class="org.example.OneToMany.Answer"/>
 <!--        <mapping class="org.example.ManyToMany.Employee"/>-->
 <!--        <mapping class="org.example.ManyToMany.Project"/>-->
 <!--        <mapping class="org.example.Life_State_Practical.Student"/>-->
-        <mapping class="org.example.HQL.MyEmployee"/>
+
+<!--                             HQL Mapping-->
+<!--        <mapping class="org.example.HQL.HQL_Getdata.MyEmployee"/>-->
+<!--        <mapping class="org.example.HQL.HQL_deletedata.MyEmployee"/>-->
+<mapping class="org.example.HQL.HQL_Updatedata.MyEmployee"/>
 
 
     </session-factory>
